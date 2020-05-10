@@ -16,7 +16,8 @@ div{
 }
 
 img{
-    max-width: 50%;
+    max-width: 100%;
+    width:500px;
     max-height: 100%;
     float: right;
     margin-left: 32px;
